@@ -182,9 +182,7 @@ body {
  @media (max-width: 580px) {
  body{
   overflow-y:auto;
-    max-width: 98%;
-    min-width: 98%;
-
+  
   }
  .container{max-width: 98%;
     min-width: 98%;}
